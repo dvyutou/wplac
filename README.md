@@ -3,7 +3,27 @@ title: "Cómo Jugar WplaceLive: Guía Completa"
 description: "Aprende cómo jugar WplaceLive, la plataforma colaborativa de arte píxel. Domina la colocación de píxeles, las características de la comunidad y las estrategias creativas en este lienzo innovador."
 excerpt: "Domina el juego de WplaceLive"
 ---
+Wplace Color Palette:
+I specialize in the <a href="https://wplacelive.org/wplace-color" rel="ugc">Wplace Color Palette</a>, helping users choose and utilize colors effectively for their pixel art creations.
 
+Wplace Tool:
+As a <a href="https://wplacelive.org/wplace-tool" rel="ugc">Wplace Tool expert</a>, I assist users in maximizing their pixel art experience with essential tools and resources.
+
+Wplace Pixel:
+I focus on <a href="https://wplacelive.org/wplace-pixel" rel="ugc">Wplace Pixel</a>, creating vibrant pixel art and engaging with the community to share techniques and inspiration.
+
+Wplace Pixel Art Tool:
+I am passionate about the <a href="https://wplacelive.org/wplace-pixel" rel="ugc">Wplace Pixel Art Tool</a>, guiding users in crafting stunning pixel art with ease and creativity.
+
+Wplace Text to Pixel Converter:
+I help users leverage the <a href="https://wplacelive.org/wplace-text-to-pixel" rel="ugc">Wplace Text to Pixel Converter</a>, transforming text into pixel art effortlessly for unique creations.
+
+Wplace Text to Pixel:
+I specialize in <a href="https://wplacelive.org/wplace-text-to-pixel" rel="ugc">Wplace Text to Pixel</a>, enabling artists to convert their text into captivating pixel art designs seamlessly.
+
+Blue Marble Wplace:
+I am an advocate for <a href="https://wplacelive.org/blue-marble-wplace" rel="ugc">Blue Marble Wplace</a>, exploring its features and sharing pixel art creations within this vibrant community.
+                                                                                                                                  
 ## Comenzando con WplaceLive
 
 WplaceLive representa un enfoque revolucionario para la creación colaborativa de arte digital. Esta guía completa te enseñará cómo jugar y dominar cada aspecto de esta innovadora plataforma de arte píxel. Entender cómo jugar WplaceLive efectivamente requiere comprender tanto sus mecánicas técnicas como las dinámicas de la comunidad.
